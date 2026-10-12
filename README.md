@@ -1,20 +1,20 @@
-Infrastructure Engineer at [Lazorpoint](https://lazorpoint.com). B.S. Computer Science. I build climbing apps on the side.
+Infrastructure / software engineer at [Lazorpoint](https://www.lazorpoint.com). B.S. Computer Science.
 
-Check out [my site](https://ethanhonis.com)
+Check out [my site](https://ethanhonis.com), [Instagram](https://www.instagram.com/ehonicc/) or [Strava](https://www.strava.com/athletes/112207097)
 
 ## Current Projects
 
-- **[Wall Pass](https://getwallpass.com)** — One account, one pass balance, every participating climbing gym
-- **[Vertix](https://vertixclimb.com)** — The climbing tracker for ropes and boulders
-- **[Roomify](https://roomifystudio.com)** — Upload a floor plan, get an editable 3D room, let an AI designer furnish it
+- **[Wall Pass](https://www.getwallpass.com)** (co-founder) — One climbing pass for a whole network of gyms. Check in at any partner gym for less than the door, and earn a free visit for climbing somewhere new each month
+- **[Vertix](https://www.vertixclimb.com)** (founder) — Gamified climb tracking for sport climbing and bouldering. Every send earns XP, levels, achievements and a spot on the leaderboard
+- **[Roomify](https://roomifystudio.com)** (founder) — Floor plans to furnished 3D homes. An AI designer furnishes every room in one of eight styles while you watch, with your own Claude, GPT or OpenRouter key
 
-### Slopos
+### SlopOS
 
-Self-hosted apps built for an audience of one (me). Used daily, published as working examples.
+Self-hosted, open source, and built for an audience of one (plus whoever I train with). Each has a native iPhone app.
 
-- **[Totem](https://github.com/ehonis/totem)** — Personal assistant driven by Claude Code, Codex or OpenCode. Tasks, calendar, goals, voice journal, MCP both ways
-- **[Bushido](https://github.com/ehonis/bushido)** — Training log with weekly quotas instead of a fixed schedule. Built to chase a 5.12a and a half Ironman at once
-- **[Krakatoa](https://github.com/ehonis/krakatoa)** — Food log with barcode scanning, USDA portions, and WHOOP for the deficit
+- **[Totem](https://github.com/ehonis/totem)** — A self-hosted AI assistant that runs my whole life. Drives whichever agent CLI I already pay for across mail, calendar, Drive, messages and repos. Totems wake on a schedule or when something changes, and only ping me when it matters
+- **[Krakatoa](https://github.com/ehonis/krakatoa)** — An AI food log. Scan a barcode, snap a label, a receipt or the plate, or just say what you ate, and it weighs the day against what WHOOP says you burned
+- **[Bushido](https://github.com/ehonis/bushido)** — An AI coach for health and training. Weeks built around quotas, not planned days, with WHOOP sleep and Strava. Plan someone else's week, or log a workout together
 
 ### Open Source
 
